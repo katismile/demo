@@ -1,0 +1,14 @@
+{
+    "production": {
+        "facebook": {
+            "appID": "585336284942859",
+            "appSecret": "1cabc743765543715d3d42a56b15b9a3",
+            "callbackUrl": "http://localhost:3000/auth/facebook/callback"
+        },
+        "mongo": {
+            "host": "localhost",
+            "port": "27017",
+            "database": "main"
+        }
+    }
+}
